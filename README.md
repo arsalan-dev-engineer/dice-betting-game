@@ -1,7 +1,7 @@
-# Roll to Target Game
+# Dice Betting Game
 
 ## Overview
-Roll to Target is an interactive dice-based game where the objective is to reach or exceed a randomly assigned target score by managing your bets and rolling dice. Players start with a balance and must place bets before each round to either win or lose based on dice rolls. The game includes a bonus round for added excitement.
+**Dice Betting Game** is an interactive dice-based game where the objective is to reach or exceed a randomly assigned target score by managing your bets and rolling dice. Players start with a balance and must place bets before each round to either win or lose based on dice rolls. The game includes a bonus round for added excitement.
 
 ## Features
 - **Dice Rolls**: Players roll a dice to determine the outcome of each bet.
@@ -32,5 +32,4 @@ Roll to Target is an interactive dice-based game where the objective is to reach
 ## Installation
 Clone this repository:
 ```bash
-https://github.com/arsalan-dev-engineer/dice-betting-game.git
-```
+git clone https://github.com/arsalan-dev-engineer/dice-betting-game.git
